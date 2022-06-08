@@ -1,8 +1,10 @@
 import './App.css';
 import { snacks } from './snacks.js';
 import { pets } from './pets.js';
+import { musics } from './music.js';
 import SnackList from './SnackList';
 import PetList from './PetList';
+import MusicList from './MusicList';
 // import your arrays here
 
 function App() {
@@ -15,6 +17,7 @@ function App() {
       <PetList pets={pets} />
       <hr />
       <h1>Third List</h1>
+      <MusicList musics={musics} />
     </div>
   );
 }
