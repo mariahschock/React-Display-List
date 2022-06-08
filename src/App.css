@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+.snack {
+  border-radius: 10px;
+  box-shadow: 0 0 3px;
+  padding: 10px;
+  margin: 10px;
+}
+.music {
+  border-radius: 10px;
+  box-shadow: 0 0 3px;
+  padding: 10px;
+  margin: 10px;
+}
+.movies {
+  border-radius: 10px;
+  box-shadow: 0 0 3px;
+  padding: 10px;
+  margin: 10px;
+}
+.pets {
+  border-radius: 10px;
+  box-shadow: 0 0 3px;
+  padding: 10px;
+  margin: 10px;
+}
