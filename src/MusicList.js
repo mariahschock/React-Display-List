@@ -3,7 +3,7 @@ import MusicItem from './MusicItem';
 
 export default function MusicList({ musics }) {
   return (
-    <div>
+    <div className="music">
       {
         musics.map((music, i) => <MusicItem key={music.genre + i} {...music} />)
       }

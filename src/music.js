@@ -5,7 +5,7 @@ export const musics = [
     TopSongs: [
       'Shake It Off, ',
       'You Belong With Me, ',
-      'Blank Space, '
+      'Blank Space '
     ]
   },
   {
@@ -14,7 +14,7 @@ export const musics = [
     TopSongs: [
       'Bohemian Rhapsody, ',
       'Fat Bottomed Girls, ',
-      'Don\'t Stop Me Now, '
+      'Don\'t Stop Me Now '
     ]  
   },
   {
@@ -23,7 +23,7 @@ export const musics = [
     TopSongs: [
       'The Dance, ',
       'Friends in Low Places, ',
-      'If Tomorrow Never Comes, '  
+      'If Tomorrow Never Comes '  
     ]  
   },
   {
@@ -32,7 +32,7 @@ export const musics = [
     TopSongs: [
       'Don\'t Let Me Down, ',
       'Takeaway, ',
-      'Crawl Outta Love, '  
+      'Crawl Outta Love '  
     ]
   }
 ];
